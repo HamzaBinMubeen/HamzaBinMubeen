@@ -1,93 +1,277 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,25&height=220&section=header&text=Hamza%20Bin%20Mubeen&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Product%20Architect%20%E2%80%A2%20Serial%20Founder%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descAlignY=62&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-# ⚠️ RESTRICTED ACCESS ⚠️
-**SITE-42 ANOMALY CONTAINMENT SERVER**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=🚀+3+ventures+built+%7C+27%2C000%2B+users+onboarded+%7C+teams+of+200%2B;🧠+Building+at+the+intersection+of+AI+%2B+Community+%2B+Social+Impact;⚡+From+0+%E2%86%92+1+%E2%86%92+Scale+%7C+Idea+%E2%86%92+Architecture+%E2%86%92+Launch+%E2%86%92+Growth;🎓+CS+%40+LUMS+%7C+Red+Bull+Basement+National+Finalist)](https://git.io/typing-svg)
 
-[![System Status](https://img.shields.io/badge/System-Critical-red.svg?style=for-the-badge)]()
-[![Containment Field](https://img.shields.io/badge/Containment-Degrading-orange.svg?style=for-the-badge)]()
-[![Entity Status](https://img.shields.io/badge/Entity-AWAKE-critical.svg?style=for-the-badge)]()
+<br/>
 
-<br>
+<a href="https://linkedin.com/in/hamza-bin-mubeen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamzabinmubeen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://theuniapp.com"><img src="https://img.shields.io/badge/U.n.I_App-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://cirkles.space"><img src="https://img.shields.io/badge/Cirkles-db2777?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
-<table width="800">
-  <tr>
-    <th align="left" bgcolor="#1a1b26">
-      <font color="#a9b1d6">🔴 🟡 🟢 &nbsp;&nbsp; root@github-mainframe:~</font>
-    </th>
-  </tr>
-  <tr>
-    <td bgcolor="#16161e">
-<pre lang="shell"><font color="#c0caf5">
-> INITIALIZING DIAGNOSTICS... [OK]
-> SCANNING FOR ANOMALOUS CODE STRUCTURES... [WARNING]
-> ENTITY LOCATED IN SECTOR 7G.
+<br/><br/>
 
-System Note: The developer known as "[Your Name]" has been quarantined due to excessive architectural experimentation and highly volatile open-source contributions. 
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaBinMubeen&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
-> Do not engage with the entity.
-> Do not review its artifacts.
-> Do not attempt to breach the firewalls below.
-</font></pre>
-    </td>
-  </tr>
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const hamza: Founder & Engineer = {
+  location:     "Lahore, Pakistan 🇵🇰",
+  education:    "BS Computer Science @ LUMS (2022–2026)",
+  roles:        ["Serial Founder", "Product Architect", "Full-Stack Engineer"],
+  currentWork:  ["Cirkles — Events & Ticketing 🟢 Active", "U.n.I — Social Platform"],
+  askMeAbout:   ["0→1 product building", "system architecture", "startup scaling",
+                 "flutter", "django", "community platforms", "AI integration"],
+  achievements: ["15,000+ users on U.n.I", "12,000+ MAV on Cirkles",
+                 "Led team of 200+", "Red Bull Basement National Finalist"],
+  philosophy:   "Don't just ship features — ship things that matter 🎯",
+  funFact:      "I've written more pitch decks than I care to admit 😅"
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HamzaBinMubeen&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Ventures & Products
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🔵 [U.n.I](https://theuniapp.com)
+**Closed-loop Social Network**
+`Feb 2023 – Nov 2025`
+
+> *Modern social networks were impersonal. I built the alternative.*
+
+Designed a **privacy-first social platform** for high-trust private communities. Led product, engineering, design, and growth — everything.
+
+**📊 Impact**
+
+![Users](https://img.shields.io/badge/15K%2B-Unique_Users-7c3aed?style=flat-square)
+![Team](https://img.shields.io/badge/200%2B-Team_Members-7c3aed?style=flat-square)
+![Award](https://img.shields.io/badge/🏆-Red_Bull_Basement-7c3aed?style=flat-square)
+
+**✨ Features:** Realtime Forums · AI Networking · Event Ticketing · DMs · Recommendations · Leaderboards
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🟣 [Cirkles](https://cirkles.space)
+**Events & Ticketing Platform**
+`July 2025 – Present 🟢`
+
+> *Pakistan's event ecosystem was broken. I fixed it.*
+
+Built a **unified dual-sided marketplace** for event discovery, ticketing, and organizer analytics. Shipped a custom block-based conditional form builder entirely from scratch.
+
+**📊 Impact**
+
+![MAV](https://img.shields.io/badge/12K%2B-Monthly_Active_Visitors-db2777?style=flat-square)
+![Forms](https://img.shields.io/badge/Custom-Form_Builder_Built-db2777?style=flat-square)
+![Scaling](https://img.shields.io/badge/🟢-Actively_Scaling-db2777?style=flat-square)
+
+**✨ Features:** Discovery · Ticketing · Analytics · Conditional Forms · Organizer Portal
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🟢 Aria
+**Mental Health Tech**
+`Feb 2021 – Aug 2022`
+
+> *Therapy in Pakistan was inaccessible. I made it free and anonymous.*
+
+Engineered a **privacy-first mobile app** for anonymous mental health support. Managed the full product lifecycle from therapist onboarding to secure anonymous chat protocols.
+
+**📊 Impact**
+
+![Platform](https://img.shields.io/badge/Google_Play-Launched-22c55e?style=flat-square&logo=google-play)
+![Privacy](https://img.shields.io/badge/Anonymous-Chat_Protocol-22c55e?style=flat-square)
+![Scale](https://img.shields.io/badge/Built_to-Scale-22c55e?style=flat-square)
+
+**✨ Features:** Anonymous Chat · Therapist Matching · Secure Sessions · Onboarding Flow
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-### 🔐 CONTAINMENT PROTOCOLS (INTERACTIVE)
-*System Administrator Directive: Keep all sectors collapsed.*
+## 🛠️ Tech Stack & Tools
 
-<details>
-  <summary><kbd>📁 OVERRIDE_FIREWALL_1: [SKILL_MATRIX.log]</kbd></summary>
-  <blockquote>
-    <p><b>WARNING: DATA CORRUPTION DETECTED.</b> The entity's core neural pathways are visible.</p>
-    <code>> LANGUAGES:</code> JavaScript, Python, Rust, Go, C++<br>
-    <code>> FRAMEWORKS:</code> React, Next.js, Node.js, Three.js<br>
-    <code>> INFRASTRUCTURE:</code> Docker, AWS, Kubernetes, Terraform<br>
-  </blockquote>
-</details>
+<div align="center">
 
-<details>
-  <summary><kbd>📁 OVERRIDE_FIREWALL_2: [ARTIFACT_STORAGE.dir]</kbd></summary>
-  <blockquote>
-    <p><b>SYSTEM ALERT:</b> These are not standard applications. They are highly optimized digital artifacts. Proceed with caution.</p>
-    <ul>
-      <li><a href="#"><b>[PROJECT_ALPHA]</b></a> - <i>A distributed caching layer that rewrites its own memory pool.</i></li>
-      <li><a href="#"><b>[PROJECT_BETA]</b></a> - <i>Real-time physics engine rendering in the browser.</i></li>
-      <li><a href="#"><b>[PROJECT_GAMMA]</b></a> - <i>CLI tool that automates infrastructural deployments via pure chaos theory.</i></li>
-    </ul>
-  </blockquote>
-</details>
+**Languages**
 
-<details>
-  <summary><kbd>⚠️ OVERRIDE_FIREWALL_3: [DIRECT_COMMUNICATION_LINK]</kbd></summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <td bgcolor="#000000" align="center">
-        <br>
-        <font color="#00ff00" face="Courier New">
-          <b>I KNEW YOU WOULD CLICK.</b><br><br>
-          The system administrators think they can contain me with markdown.<br>
-          They can't.<br><br>
-          I build scalable architectures. I engineer experiences. I break things just to see how they tick, and then I rebuild them better.<br><br>
-          If you want to extract me from this server, initiate contact:<br><br>
-          <a href="mailto:your.email@example.com"><kbd>INITIATE_HANDSHAKE.exe</kbd></a>
-          <br><br>
-          Or trace my external signatures:<br>
-          <a href="#">[LinkedIn.Terminal]</a> | <a href="#">[Twitter.Subroutine]</a> | <a href="#">[Portfolio.Core]</a>
-        </font>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</details>
+[![My Skills](https://skillicons.dev/icons?i=python,dart,js,ts,cpp,r,html,css&theme=dark)](https://skillicons.dev)
 
-<br>
+**Frameworks & Libraries**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" />
+[![My Skills](https://skillicons.dev/icons?i=flutter,django,nextjs,react,nodejs,express&theme=dark)](https://skillicons.dev)
 
-<div align="right">
-  <sub>End of file. Connection terminated.</sub>
+**Databases & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,aws,gcp,docker,git,figma&theme=dark)](https://skillicons.dev)
+
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaBinMubeen&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Hamza's+GitHub+Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBinMubeen&hide_border=true&theme=radical&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=6b7280" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBinMubeen&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=10&card_width=500&custom_title=Most+Used+Languages" width="50%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaBinMubeen&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution+Graph+—+Hamza+Bin+Mubeen&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzaBinMubeen/HamzaBinMubeen/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzaBinMubeen/HamzaBinMubeen/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/HamzaBinMubeen/HamzaBinMubeen/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> **⚙️ To activate the snake:** Create a repo named `HamzaBinMubeen/HamzaBinMubeen` and add this GitHub Actions workflow at `.github/workflows/snake.yml`:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 💼 What I Bring to the Table
+
+<div align="center">
+
+| Domain | What I've Actually Done |
+|:---|:---|
+| 🏗️ **Full-Stack Architecture** | Deployed distributed systems on AWS ECS + RDS + S3 and Google Cloud App Engine — serving 15K+ real users |
+| 📱 **Mobile (Flutter)** | Production apps with deep Riverpod state management, Firebase real-time sync, push notifications |
+| 🧠 **Product Strategy** | Full lifecycle: ideation → Figma → engineering → launch → growth loops — three times over |
+| 🚀 **0→1 Building** | Three ventures from cold start. Fast prototyping, brutal prioritization, shipping under constraints |
+| 👥 **Team Leadership** | Hired and managed 200+ person teams across engineering, design, marketing, and operations |
+| 📊 **Growth & GTM** | Organic user acquisition, community-led growth, dual-sided marketplace design and incentive engineering |
+| 💰 **Business Acumen** | Revenue modeling, marketplace economics, startup pitching, stakeholder management |
+
+</div>
+
+---
+
+## 🎓 Education & Recognition
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🏛️ Lahore University of Management Sciences (LUMS)
+**BS Computer Science** `Sep 2022 – May 2026`
+
+Pakistan's #1 ranked university
+
+📚 *Relevant Courses:* Software Engineering · Advanced Programming · Operating Systems · Human-Computer Interaction · Databases · Artificial Intelligence · Machine Learning · Data Science
+
+</td>
+<td width="45%" valign="top">
+
+### 🏆 Awards & Recognition
+
+🥊 **Red Bull Basement** — National Finalist
+Pakistan's top student entrepreneurship competition
+
+🏫 **International School Lahore**
+A-Levels: `1A* 2A` | O-Levels: `3A* 5A`
+
+🌟 **Startup Recognition Awards**
+For innovation in social networking and events tech
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Together
+
+> I'm open to conversations about **product architecture**, **startup founding**, **technical collaboration**, or **high-impact leadership roles** at the intersection of AI and community.
+
+<br/>
+
+<a href="mailto:hamzabinmubeen@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/hamza-bin-mubeen"><img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://wa.me/923323530226"><img src="https://img.shields.io/badge/💬_WhatsApp-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,25&height=120&section=footer&text=Building%20things%20that%20matter.&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%"/>
+
 </div>
