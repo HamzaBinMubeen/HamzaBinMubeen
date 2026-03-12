@@ -56,7 +56,7 @@ const hamza: Founder & Engineer = {
 
 ### 🔵 [U.n.I](https://theuniapp.com)
 **Closed-loop Social Network**
-`Feb 2023 – Nov 2025`
+`Feb 2023 – Present`
 
 > *Modern social networks were impersonal. I built the alternative.*
 
@@ -199,8 +199,6 @@ Engineered a **privacy-first mobile app** for anonymous mental health support. M
 ### 🏛️ Lahore University of Management Sciences (LUMS)
 **BS Computer Science** `Sep 2022 – May 2026`
 
-Pakistan's #1 ranked university
-
 📚 *Relevant Courses:* Software Engineering · Advanced Programming · Operating Systems · Human-Computer Interaction · Databases · Artificial Intelligence · Machine Learning · Data Science
 
 </td>
@@ -223,11 +221,11 @@ For innovation in social networking and events tech
 
 ---
 
-## 💬 Random Dev Quote
+## 💬
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+"Make Something People Want!"
 
 </div>
 
@@ -237,13 +235,12 @@ For innovation in social networking and events tech
 
 ## 🤝 Let's Build Something Together
 
-> I'm open to conversations about **product architecture**, **startup founding**, **technical collaboration**, or **high-impact leadership roles** at the intersection of AI and community.
+> I'm open to conversations about **product architecture**, **startup founding**, **technical collaboration**, or **high-impact leadership consultance** at the intersection of AI and community.
 
 <br/>
 
 <a href="mailto:hamzabinmubeen@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
 <a href="https://linkedin.com/in/hamza-bin-mubeen"><img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://wa.me/923323530226"><img src="https://img.shields.io/badge/💬_WhatsApp-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
 
 <br/><br/>
 
